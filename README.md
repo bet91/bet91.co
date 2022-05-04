@@ -18,8 +18,8 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 ## Responsabilidades Basicas
 
 {% hint style="warning" %}
-* Crear cartera de clientes mediante el uso de redes sociales.
-* Venta/Atencion Sobre dicha cartera de clientes.
+* **Crear cartera** de clientes mediante el uso de redes sociales.
+* **Venta/Atencion** Sobre dicha cartera de clientes.
 * Cobrar/Controlar las **Membrecias** y **Fichas.**
 {% endhint %}
 
