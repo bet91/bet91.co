@@ -29,4 +29,6 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 * **CVU Electronico** (Mercadopago, Brubank, Uala).
 * **CBU Fisico** (Cualquier Banco Fisico).
 * **Redes Sociales** (Facebook, Instangram, TikTok).
+* **WhatsApp.**
+* **Ganas** de **trabajar** y **aprender.**
 {% endhint %}
