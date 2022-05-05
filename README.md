@@ -11,24 +11,25 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 * **Trabajas desde tu casa.**
 * **Gana** importantes **premios** y **comisiones.**
 * Las horas que quieras.
-* Desde tu celular, computadora o tablet.
-* Se tu propia **jefa**, **realizate profesionalmente** dentro de nuestro **sistema** de **franquiciados**.
+* Desde tu celular, computadora o Tablet.
+* Se tu propia **jefa**, **realízate profesionalmente** dentro de nuestro **sistema** de **franquiciados**.
 {% endhint %}
 
-## Responsabilidades Basicas
+## Responsabilidades Básicas
 
 {% hint style="warning" %}
 * **Crear cartera** de clientes mediante el uso de redes sociales.
-* **Venta/Atencion** Sobre dicha cartera de clientes.
-* Cobrar/Controlar las **Membrecias** y **Fichas.**
+* **Venta/Atención** Sobre dicha cartera de clientes.
+* Cobrar/Controlar las **Membresías** y **Fichas.**
 {% endhint %}
 
-## Requicitos
+## Requisitos
 
 {% hint style="warning" %}
-* **CVU Electronico** (Mercadopago, Brubank, Uala).
-* **CBU Fisico** (Cualquier Banco Fisico).
-* **Redes Sociales** (Facebook, Instangram, TikTok).
+* **CVU Electrónico** (Mercadopago, Brubank, Ualá).
+* **CBU Físico** (Cualquier Banco Físico).
+* **Redes Sociales** (Facebook, Instagram, TikTok).
 * **WhatsApp.**
 * **Ganas** de **trabajar** y **aprender.**
 {% endhint %}
+
