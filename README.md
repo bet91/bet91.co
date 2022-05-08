@@ -33,15 +33,11 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 * **Ganas** de **trabajar** y **aprender.**
 {% endhint %}
 
-### Comiciones y Días De Pago. :smile:
+### Comiciones y Dias De Pago. :smile:
 
 {% hint style="success" %}
-* **Todas** las ventas tienen comisión.
-* **Martes por la tarde**, se trasfieren los pagos de comiciones por ventas.
+* **Todas** las ventas tienen comicion.
+* **Martes por la tarde**, se trasfieren los pagos de las comiciones por ventas.
 * **Todas** las ventas tienen comiciones
-* **Premios** se abonan al alcanzar los objetivos, indiferentemente del día.
-{% endhint %}
-
-{% hint style="danger" %}
-<mark style="color:red;">**PUNTO DE CONTROL HABLE CON SU LIDER DE VENTAS.**</mark>
+* **Premios** se abonan al alcanzar los objetivos, indiferentemente del dia.
 {% endhint %}
