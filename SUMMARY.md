@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🥰 Cajera](README.md)
+* [🤜 Introducción a la Franquicia](README.md)
