@@ -5,7 +5,7 @@ description: Primeros pasos en el puesto de cajera...
 # 🥰 Cajera
 
 {% hint style="info" %}
-Ser Cajera de **bet91.co** tiene muchas ventajas:\
+Ser Cajera de **CasinoZeus** tiene muchas ventajas:\
 
 
 * **Trabajas desde tu casa.**
@@ -20,7 +20,7 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 {% hint style="warning" %}
 * **Crear cartera** de clientes mediante el uso de redes sociales.
 * **Venta/Atención** Sobre dicha cartera de clientes.
-* Cobrar/Controlar las **Membresías** y **Fichas.**
+* **Cobrar/Controlar** las **Membresías** y **Fichas.**
 {% endhint %}
 
 ## Requisitos
@@ -33,11 +33,14 @@ Ser Cajera de **bet91.co** tiene muchas ventajas:\
 * **Ganas** de **trabajar** y **aprender.**
 {% endhint %}
 
-### Comiciones y Dias De Pago. :smile:
+### Comiciones y Días De Pago. :smile:
 
 {% hint style="success" %}
-* **Todas** las ventas tienen comicion.
-* **Martes por la tarde**, se trasfieren los pagos de las comiciones por ventas.
-* **Todas** las ventas tienen comiciones
-* **Premios** se abonan al alcanzar los objetivos, indiferentemente del dia.
+* **Todas** las ventas tienen comisión.
+* **Pagos Diarios !!!** (cobra comisiones todos los dias)
+* **Premios** se abonan al alcanzar los objetivos, indiferentemente del día.
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**PUNTO DE CONTROL HABLE CON SU LIDER DE VENTAS.**</mark>
 {% endhint %}
