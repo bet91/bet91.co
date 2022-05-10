@@ -30,14 +30,14 @@ Ser Cajera de **CasinoZeus** tiene muchas ventajas:\
 * **CBU Físico** (Cualquier Banco Físico).
 * **Redes Sociales** (Facebook, Instagram, TikTok).
 * **WhatsApp.**
-* **Ganas** de **trabajar** y **aprender.**
+* **Voluntad/ Deseo** de **aprender y trabajar.**
 {% endhint %}
 
-### Comiciones y Días De Pago. :smile:
+### Comisiones y Días De Pago. :smile:
 
 {% hint style="success" %}
 * **Todas** las ventas tienen comisión.
-* **Pagos Diarios !!!** (cobra comisiones todos los dias)
+* **Pagos Diarios !!!** (cobra comisiones todos los días)
 * **Premios** se abonan al alcanzar los objetivos, indiferentemente del día.
 {% endhint %}
 
